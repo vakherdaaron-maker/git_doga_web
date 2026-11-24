@@ -3,9 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <title>jo ez igy</title>
 </head>
 <body>
+    <h1>kedvenc ruhamárkáim</h1>
     <ul>
         <li>nike</li>
         <li>adidas</li>
@@ -13,5 +15,6 @@
         <li>pandora</li>
         <li>swarowzki</li>
     </ul>
+    
 </body>
 </html>
